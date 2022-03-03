@@ -1,0 +1,10 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jianfeng <gjf610@yeah.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
